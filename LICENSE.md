@@ -1,4 +1,4 @@
-# 
+# Smart Omni Flash tools. Featuring plugin-system and fine-tuning — optimized for maximum performance and efficiency.
 
 
 
